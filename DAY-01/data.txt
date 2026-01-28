@@ -1,0 +1,16 @@
+enter password : 112121212
+enter name :wqedwe
+enter age : 33
+valid details
+PS C:\Users\DELL\Desktop\python sample> python script.py pallavi
+Hello,pallavi!
+PS C:\Users\DELL\Desktop\python sample> python script.py pallavi
+prog name: script.py
+ard1: pallavi
+PS C:\Users\DELL\Desktop\python sample> python script.py pallavi sls redu finky
+prog name: script.py
+arg1: pallavi
+arg2: sls
+arg3: redu
+arg4: finky
+PS C:\Users\DELL\Desktop\python sample>
