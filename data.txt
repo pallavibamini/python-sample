@@ -12,3 +12,6 @@ password strength checker
 ping multiple servers script
 file renamer script
 file manager 
+
+
+logfile analyser  , password checker
