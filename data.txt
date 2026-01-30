@@ -1,0 +1,14 @@
+Hello World
+Welcome to Python
+This is an appended line.
+
+disk usage monitoring script(ram,cpu)
+automatic file backup script
+log file error etractor
+system resource monitor(total , used, freed storage)(disk usage , memory usage)
+folder clean up automation
+csv report generator
+password strength checker
+ping multiple servers script
+file renamer script
+file manager 
